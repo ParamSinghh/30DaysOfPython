@@ -1,6 +1,3 @@
-# 30DaysOfPython
-Here’s a **cool, polished, energetic README** you can copy straight into your repo:
-
 ---
 
 # 🚀 30 Days of Python — My Journey from Student to Pythonista 🐍
