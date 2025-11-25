@@ -49,9 +49,9 @@ I’m organizing everything so anyone can follow along, even if you're new to Py
 
 | Day | Topic                  | Status         |
 | --- | ---------------------- | -------------- |
-| 1   | Basics & Syntax        | ✅ Done         |
-| 2   | Variables & Data Types | ⏳ In Progress  |
-| ... | ...                    | ...            |
+| 1   | Basics & Syntax        | ✅ Done        |
+| 2   | Variables & Data Types | ✅ Done        |
+| 3   | Operators              |                |
 | 30  | Final Project          | 🏁 Coming Soon |
 
 *(This table updates as I go!)*
