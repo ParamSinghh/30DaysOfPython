@@ -51,7 +51,8 @@ I’m organizing everything so anyone can follow along, even if you're new to Py
 | --- | ---------------------- | -------------- |
 | 1   | Basics & Syntax        | ✅ Done        |
 | 2   | Variables & Data Types | ✅ Done        |
-| 3   | Operators              |                |
+| 3   | Operators              | ✅ Done        |
+| 4   | Strings                | ✅ Done        | 
 | 30  | Final Project          | 🏁 Coming Soon |
 
 *(This table updates as I go!)*
