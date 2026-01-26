@@ -54,12 +54,21 @@ I’m organizing everything so anyone can follow along, even if you're new to Py
 | 3   | Operators              | ✅ Done        |
 | 4   | Strings                | ✅ Done        | 
 | 5   | Lists                  | ✅ Done        |
-|     |                        |                 |
-|     |                        |                 |
-|     |                        |                 |
-|     |                        |                 |
-|     |                        |                 |
-
+| 6   | Tuples                 | ✅ Done        |
+| 7   | Sets                   | ✅ Done        |
+| 8   | Dictionaries           | ✅ Done        |
+| 9   | Conditionals           | ✅ Done        |
+| 10  | Loops                  | ✅ Done        |
+| 11  | Functions              | ✅ Done        |
+| 12  | Modules                | ✅ Done        |
+| 13  | List Comprehension     | ✅ Done        |
+| 14  | High Order Functions   | ✅ Done        |
+| 15  | Python Type Errors     | ✅ Done        |
+| 16  | Python Date Time       | ✅ Done        |
+| 17  | Exception Handling     |                 |
+| 18  |                        |                 |
+| 19  |                        |                 |
+| 20  |                        |                 |
 *(This table updates as I go!)*
 
 ---
